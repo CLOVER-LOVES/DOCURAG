@@ -1,0 +1,6 @@
+# Optional advanced features
+sentence-transformers>=2.2.0
+pytesseract>=0.3.10
+pdf2image>=1.17.0
+poppler and tesseract system binaries are required for OCR.
+PY

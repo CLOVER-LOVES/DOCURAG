@@ -1,0 +1,12 @@
+[
+  {
+    "question": "What is the purpose of this document?",
+    "relevant_sources": ["example.pdf"],
+    "expected_keywords": ["document", "purpose"]
+  },
+  {
+    "question": "What date is mentioned?",
+    "relevant_sources": ["example.pdf"],
+    "expected_keywords": ["2024", "date"]
+  }
+]
